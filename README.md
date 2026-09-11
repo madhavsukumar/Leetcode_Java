@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/madhavsukumar/Leetcode_Java/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -46,4 +48,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
