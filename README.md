@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
 | [1470-shuffle-the-array](https://github.com/madhavsukumar/Leetcode_Java/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/madhavsukumar/Leetcode_Java/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/madhavsukumar/Leetcode_Java/tree/master/1512-number-of-good-pairs) |
@@ -52,4 +53,24 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
