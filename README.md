@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
 | [1470-shuffle-the-array](https://github.com/madhavsukumar/Leetcode_Java/tree/master/1470-shuffle-the-array) |
@@ -23,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0242-valid-anagram) |
@@ -77,4 +79,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
