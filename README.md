@@ -7,6 +7,7 @@
 | [0036-valid-sudoku](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/madhavsukumar/Leetcode_Java/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/madhavsukumar/Leetcode_Java/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/madhavsukumar/Leetcode_Java/tree/master/1512-number-of-good-pairs) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
