@@ -17,6 +17,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/madhavsukumar/Leetcode_Java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/madhavsukumar/Leetcode_Java/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -34,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/madhavsukumar/Leetcode_Java/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
