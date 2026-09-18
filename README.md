@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/madhavsukumar/Leetcode_Java/tree/master/1512-number-of-good-pairs) |
 ## Counting
