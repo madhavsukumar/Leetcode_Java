@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/madhavsukumar/Leetcode_Java/tree/master/0704-binary-search) |
